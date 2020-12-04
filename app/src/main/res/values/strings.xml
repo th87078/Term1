@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Term1</string>
+    <string name="cont">Continue</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="t">True</string>
+    <string name="f">False</string>
+    <string name="correct">Correct!</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="Knowledge_Check">Knowledge Check</string>
+    <string name="Activity1S1">Welcome to an introduction on Cyber Security!</string>
+    <string name="Activity1S2">This section is meant for absolute beginners and will go over the basics of Cyber Security. It will introduce some of the common terms and details you should know to keep your and your data safe. The other sections will go more in depth on other topics, but here will build up your foundation.</string>
+    <string name="Activity12S1">What is cyber security?</string>
+    <string name="Activity12S2">Cyber security is a broad term that covers a lot of topics. For now, lets narrow it down to the information and best practices that can keep people secure in the modern online landscape. </string>
+    <string name="Activity13S1">Why should you care?</string>
+    <string name="Activity13S2">Unfortunately, the threats covered in cyber security are here to stay. Malware, scams, and hacks are out there and sooner or later they make their way to everyone. One of the reasons these attacks are so prolific is that they are proven to be effective, because they are not cmmonly
+    taught or talked about. Taking a minute to learn about these threats will make a real difference in keeping you safe.</string>
+    <string name="Activity14S1">Additional Resources</string>
+    <string name="Activity14S2">https://www2.ed.gov/free/features/cybersecurity.html</string>
+    <string name="Activity14S3">https://us-cert.cisa.gov/ncas/tips/ST04-001</string>
+    <string name="Activity14S4">https://usa.kaspersky.com/resource-center/preemptive-safety/kids-online-safety</string>
+    <string name="Activity14S5">https://ca.norton.com/internetsecurity-kids-safety-grade-school-cyber-security-kit-online-safety-101.html</string>
+
+    <string name="Activity2S1">Introduction to Malware</string>
+    <string name="Activity2S2">Malware comes in all sorts of shapes and sizes, but you have probably heard of at least a few types. From viruses to ransomware, the range of threats is dizzying. These intrusive pieces of code have cost people millions; even big buisnesses and governments
+    aren\'t safe. In this section, we will talk about the ones you\'re most likely to encounter, how to spot them and how you can protect yourself.</string>
+    <string name="Activity22S1">Ransomware</string>
+    <string name="Activity22S2">People perform cyber-attacks for all sorts of reasons, but the most direct and obvious motive is profit. To that end, ransomware is one of the bluntest tools available to criminals. As the name suggests, hold your system or key files hostage until a ransom is paid.
+    These attacks are on the rise due to their high success rate and difficulty to trace. </string>
+    <string name="Activity23S1">What should you do if your device is infected with ransomware?</string>
+    <string name="Activity23A1">Pay the ransom</string>
+    <string name="Activity23A2">Don\'t pay the ransom</string>
+    <string name="Activity24S1">The description of ransomware may have led you to believe that paying the ransom was the only way of getting your stuff back. But there are many documented cases where the people pay up and get nothing back. The best way to protect yourself against ransomware is
+    to be proactive. Hardware is much easier to replace than the files and software on it. To that end, consider making backups of anything you cannot live without, either on a remote drive or even on the cloud. Getting in the habit is tedious at first, but will make your life easier in the long run.
+    </string>
+    <string name="Activity25S1">What was the first computer virus called?</string>
+    <string name="Activity25A1">Creeper</string>
+    <string name="Activity25A2">Stalker</string>
+    <string name="Activity25A3">Reaper</string>
+    <string name="Activity26S1">There are dozens of different types of malware and delivery methods, but who cares? After all, malware is malware. While learning what types of threats are out there will not make anyone safer in the short term, it is an important first step in building up your foundation.
+    Viruses and worms are two of the most common types of malware you will encounter. As attackers become more sophisticated, the definitions become less rigid as programs take on characteristics of different attacks.
+        Viruses will often come in attached to a downloadable file, even non-executable ones like word documents or in a picture or video file.
+        The virus will be dormant until the infected file is run, and then begin executing its malicious code. Worms on the other hand do not need to be activated,
+        once they’re on a host they will begin to self-replicate and spread over your network, infecting other devices w/ weak protection.
+    </string>
+    <string name="Activity26S2">Viruses and Worms</string>
+    <string name="Activity27S1">How does Spyware usually infect a device?</string>
+    <string name="Activity27A1">Bundled with other software</string>
+    <string name="Activity27A2">Left behind from ransomware</string>
+    <string name="Activity27A3">Through network injection</string>
+    <string name="Activity28S1">Spyware</string>
+    <string name="Activity28S2">So far, the types of malware we’ve covered have been destructive, and intrusive. But unlike them, spyware wants to stay under the radar for as long as possible.
+        As the name indicates, the purpose of spyware is to collect personal data from its host(s) and either sell it for profit or use it for themselves.
+        Adware utilizes your browsing history to advertise products you might be interested in. Keyloggers are more direct, as they try to steal sensitive information like passwords, social security numbers, and similarly sensitive information.
+        System monitors are the jack-of-all-trades sort, collecting almost all system data. Besides the intrusion on your personal data, spyware will also hog system resources and slow your device down.
+        Spyware often ends up on your computer bundled w/ free software. While many programs are open-source and safe, others are disguising an ulterior motive.
+        Be careful to distinguish which is which!
+    </string>
+
+    <string name="Activity31S1">Online Safety</string>
+    <string name="Activity31S2">If you spend all of your time online on the same three big sites, you can probably skip this module. Otherwise, it is important to note that what you do online can have lasting effects. Thankfully, there are some simple steps you can take to stay above board.</string>
+    <string name="Activity32S1">What does HTTPS stand for?</string>
+    <string name="Activity32A1">Hypertext Transfer Protocol Secure</string>
+    <string name="Activity32A2">Help Track Transient Protocols Safely</string>
+    <string name="Activity32A3">Homogenous Technical Transportation Strategy</string>
+    <string name="Activity33S1">HTTP and HTTPS</string>
+    <string name="Activity33S2">HTTPS is the secure version of HTTP, the Hypertext Transfer Protocol. IT is widely used across the internet and is responsible for getting data to you in a secure fashion. This is important when that data is sensitive, but even your regular information
+    should be safe from eavesdroppers. In the near future, all websites should use HTTPs, but in the meantime be sure to check the url, just to be safe!</string>
+    <string name="Activity34S1">Which of these is the most commonly used password?</string>
+    <string name="Activity34A1">123456</string>
+    <string name="Activity34A2">password1</string>
+    <string name="Activity34A3">qwerty</string>
+    <string name="Activity35S1">Passwords</string>
+    <string name="Activity35S2">All of those passwords have made it onto the top used passwords lists. If you see yours there, be sure to change it! Passwords are tricky but there are plenty of tools out there to help you. Password managers, Two factor authentication, and mandatory password resets are just some of
+    the tools available to help you keep a handle on things; I would encourage you to do your own research and use whatever you find useful!</string>
+
+
+    <string name="Activity41S1">Social Engineering</string>
+    <string name="Activity41S2">Social engineering is an interesting twist on crime, combining classic grifting techniques with the online landscape. While most attackers rely on technical expertise to get what they want,
+        those practiced in social engineering can often talk their way into secure systems and payloads. Of course, not everyone is a master hacker and most are just happy to scam a couple dozen out of their rainy day fund. Scams and phishes come in countless forms,
+        from websites and emails to texts and voicemails. Most are unsophisticated, but they’re currently the most successful form of cyber-crime out there and cost people hundreds of millions every year.
+        We’ll be talking about some easy ways to identify these scams and keep your money safe.
+    </string>
+    <string name="Activity42S1">Are Logos a reliable indicator of authenticity?</string>
+    <string name="Activity43S1">Logos</string>
+    <string name="Activity43S2">Brands spend a lot of money making their name well known, and logos are a big part of that effort. However, this recognition and trust can be co-opted by scammers to gain your trust. Be on the lookout for telling signs, like bad spelling or grammar, strange addresses,
+    and an urgent, suspicious call to action.</string>
+    <string name="Activity44S1">Take a look at the following email phish.</string>
+    <string name="Activity46S1">Of the following, which does not appear in this phish?</string>
+    <string name="Activity46A1">Bad Grammar</string>
+    <string name="Activity46A2">Suspicious call to action</string>
+    <string name="Activity46A3">Hacking Threat</string>
+    <string name="Activity47S1">How to these calls to action try to manipulate you?</string>
+    <string name="Activity48A1">Emotional Response</string>
+    <string name="Activity48A2">Technical Knowledge</string>
+    <string name="Activity49S1">Phishing Safety</string>
+    <string name="Activity49S2">Everyone knows not to give away their information online, yet thousands do so every year. Scammers use all kinds of tactics to intimidate, beguile, and schmooze their way to the finish line. The most important thing to do when dealing with these attempts is to
+    keep a clear mind and apply rational thinking. Most scammers will not have any real leverage and calling their bluff is often enough to stay safe.</string>
+    
+    <string name="ActivityFinal1S1">This module checks your understanding of different cyber security concepts through a series of questions. If you do not feel ready, feel free to come back when you are.</string>
+    <string name="ActivityFinal2Q1">When browsing online, there is no difference in security when using a public PC or your own private device.</string>
+    <string name="ActivityFinal3S1">Public PCs and devices have different security settings and needs than your own private ones! WHen using them be careful to protect your passwords and other data!</string>
+    <string name="ActivityFinal4Q1">Malware can easily exploit browser vulnerabilities.</string>
+    <string name="ActivityFinal5S1">Malware can easily exploit certain browser vulnerabilities which is why you should keep your browser up to date!</string>
+    <string name="ActivityFinal6Q1">It is okay to use HTTP sites for online buying.</string>
+    <string name="ActivityFinal7S1">HTTPS at the beginning of a website URL indicates that encryption is being used to protect your transaction and keeps the details private.</string>
+    <string name="ActivityFinal8Q1">When browsing online an important fundemental is: to only enable the features you need.</string>
+    <string name="ActivityFinal9S1">For browser settings, it is important to follow the principle of least privilege. In other words, only enable the features you need!</string>
+    <string name="ActivityFinal10S1">You have reached the end of the check and of this learning app. I hope you learned something and will use this as a stepping stone to learn more about this interesting, vital topic. If not, that is okay too so long as you use what you learned to keep
+    safe and secure in the future. Happy browsing!</string>
+</resources>

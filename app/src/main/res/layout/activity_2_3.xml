@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="@drawable/background_1"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/activity23IncorrectButton"
+        android:layout_width="415dp"
+        android:layout_height="84dp"
+        android:layout_marginBottom="92dp"
+        android:background="@android:color/holo_blue_light"
+        android:text="@string/Activity23A1"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/activity23CorrectButton"
+        app:layout_constraintVertical_bias="0.969" />
+
+    <Button
+        android:id="@+id/activity23CorrectButton"
+        android:layout_width="415dp"
+        android:layout_height="84dp"
+        android:layout_marginBottom="92dp"
+        android:background="@android:color/holo_blue_light"
+        android:text="@string/Activity23A2"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/activity23textView"
+        app:layout_constraintVertical_bias="0.547" />
+
+    <TextView
+        android:id="@+id/activity23textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/Activity23S1"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.166" />
+</androidx.constraintlayout.widget.ConstraintLayout>
